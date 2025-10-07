@@ -12,4 +12,4 @@
 
 # Input dan output dari pseuducodenya
 
-![gambar](Screenshot/SS4.png)
+
